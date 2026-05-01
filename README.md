@@ -1,18 +1,77 @@
-# 💫 About Me:
-👋 Hello! I’m a Fresher DevOps Engineer passionate about cloud, containers, and automation.<br><br>Skilled in Docker, Kubernetes, Linux, Git, and CI/CD pipelines<br>Exploring Python backend development and cloud-native applications<br><br>I love creating projects that are practical, automated, and scalable.<br>Feel free to explore my repositories!
+# Hi, I'm Satnam Grover
+
+### DevOps Engineer | Docker · Kubernetes · AWS · CI/CD · Linux
+
+I build and automate infrastructure that helps software ship faster and fail less.
+Currently completing my BCA from Punjabi University (June 2025) and actively
+looking for my first DevOps / Cloud Engineer role.
+
+- Currently working on: Kubernetes deployments & Python automation scripts
+- Learning next: Terraform · Ansible · AWS Solutions Architect
+- Ask me about: Docker, Linux, CI/CD pipelines, shell scripting
+- Reach me at: satnamgrover27@gmail.com
+
+## Tech stack
+
+**Container & orchestration**
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0f172a?style=flat&logo=kubernetes&logoColor=326CE5)
+
+**CI/CD & automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-0f172a?style=flat&logo=jenkins&logoColor=D24939)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat&logo=githubactions&logoColor=2088FF)
+
+**Cloud & infrastructure**
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat&logo=linux&logoColor=FCC624)
+
+**Languages & scripting**
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-0f172a?style=flat&logo=gnubash&logoColor=4EAA25)
+![YAML](https://img.shields.io/badge/YAML-0f172a?style=flat&logo=yaml&logoColor=CB171E)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/satnamgrover) 
+## Projects
 
-# 💻 Tech Stack:
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=satnamgrover&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=satnamgrover&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satnamgrover&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### CI/CD pipeline — Jenkins + Docker + GitHub
+End-to-end automated pipeline that triggers on every Git push.
+Builds a Docker image, runs tests, and deploys the container.
+`Jenkins` `Docker` `GitHub Actions` `Linux`
+[View repo](https://github.com/satnamgrover/cicd-pipeline)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=satnamgrover&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Kubernetes multi-tier app deployment
+Deployed a 3-tier app (frontend + backend + DB) on Minikube.
+Configured Deployments, Services, ConfigMaps & rolling updates.
+`Kubernetes` `Minikube` `YAML` `Docker`
+[View repo](https://github.com/satnamgrover/k8s-deployment)
+
+---
+
+### AWS infrastructure setup
+Provisioned EC2 instances, S3 buckets with lifecycle policies,
+and IAM roles with least-privilege access.
+`AWS EC2` `S3` `IAM` `Cloud`
+[View repo](https://github.com/satnamgrover/aws-infra-setup)
+
+## GitHub stats
+
+![Satnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnamgrover&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satnamgrover&layout=compact&theme=tokyonight&hide_border=true)
+
+## Certifications
+
+- KodeKloud Engineer — Kubernetes (Level 1)
+- KodeKloud Engineer — Docker (Level 1)
+- KodeKloud Engineer — Jenkins (Level 1)
+- KodeKloud Engineer — Linux (Level 1)
+- Python Programming — KodeKloud
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/satnamgrover)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat&logo=gmail&logoColor=EA4335)](mailto:satnamgrover27@gmail.com)
