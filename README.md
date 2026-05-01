@@ -3,7 +3,7 @@
 ### DevOps Engineer | Docker · Kubernetes · AWS · CI/CD · Linux
 
 I build and automate infrastructure that helps software ship faster and fail less.
-Currently completing my BCA from Punjabi University (June 2025) and actively
+Recently completed my BCA from Punjabi University (June 2025) and actively
 looking for my first DevOps / Cloud Engineer role.
 
 - Currently working on: Kubernetes deployments & Python automation scripts
