@@ -33,33 +33,32 @@ looking for my first DevOps / Cloud Engineer role.
 
 ## Projects
 
-### CI/CD pipeline — Jenkins + Docker + GitHub
-End-to-end automated pipeline that triggers on every Git push.
-Builds a Docker image, runs tests, and deploys the container.
-`Jenkins` `Docker` `GitHub Actions` `Linux`
-[View repo](https://github.com/satnamgrover/cicd-pipeline)
+### Production-Ready DevOps Application Deployment on AWS EKS
+• Overview: Designed and deployed a containerized application on AWS EKS using Docker and Kubernetes.
+Automated the full software lifecycle through a Jenkins CI/CD pipeline, managing images via Amazon ECR.
+• Key Achievements: Configured critical Kubernetes resources including Deployments, Services, and Horizontal
+Pod Autoscaling (HPA) to ensure system elasticity. Implemented comprehensive monitoring using Prometheus
+and Grafana for real-time metrics and alerts while applying IAM-based security best practices.
+• Outcome: Established a fully automated "code-to-cloud" workflow that increased deployment frequency by 50%
+and improved system observability, leading to a 60% reduction in incident response times.
+`Jenkins` `Docker` `AWS-EKS` `Linux`
+[View repo](https://github.com/satnamgrover/DevOps-python-app.git)
 
 ---
 
-### Kubernetes multi-tier app deployment
-Deployed a 3-tier app (frontend + backend + DB) on Minikube.
-Configured Deployments, Services, ConfigMaps & rolling updates.
-`Kubernetes` `Minikube` `YAML` `Docker`
-[View repo](https://github.com/satnamgrover/k8s-deployment)
+### Automated EKS Cluster Provisioning with Terraform
+• Overview: Engineered a robust Infrastructure as Code (IaC) framework to automate the lifecycle of AWS EKS
+clusters. This involved architecting the networking layer, including VPCs, subnets, and security groups, to support
+scalable worker nodes.
+• Key Achievements: Successfully established multi-environment consistency (Dev/Staging/Prod) to minimize
+environment drift. Standardized infrastructure deployments using Terraform modules, ensuring high-availability
+and security compliance.
+• Outcome: Achieved a 40% reduction in infrastructure setup time and eliminated manual configuration
+errors, resulting in a 15% reduction in monthly cloud compute costs
+`Kubernetes` `AWS` `YAML` `Docker`, `EKS`
+[View repo](https://github.com/satnamgrover/EKS-infrastructure-terraform.git)
 
 ---
-
-### AWS infrastructure setup
-Provisioned EC2 instances, S3 buckets with lifecycle policies,
-and IAM roles with least-privilege access.
-`AWS EC2` `S3` `IAM` `Cloud`
-[View repo](https://github.com/satnamgrover/aws-infra-setup)
-
-## GitHub stats
-
-![Satnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satnamgrover&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satnamgrover&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Certifications
 
