@@ -36,9 +36,11 @@ looking for my first DevOps / Cloud Engineer role.
 ### Production-Ready DevOps Application Deployment on AWS EKS
 • Overview: Designed and deployed a containerized application on AWS EKS using Docker and Kubernetes.
 Automated the full software lifecycle through a Jenkins CI/CD pipeline, managing images via Amazon ECR.
+
 • Key Achievements: Configured critical Kubernetes resources including Deployments, Services, and Horizontal
 Pod Autoscaling (HPA) to ensure system elasticity. Implemented comprehensive monitoring using Prometheus
 and Grafana for real-time metrics and alerts while applying IAM-based security best practices.
+
 • Outcome: Established a fully automated "code-to-cloud" workflow that increased deployment frequency by 50%
 and improved system observability, leading to a 60% reduction in incident response times.
 `Jenkins` `Docker` `AWS-EKS` `Linux`
@@ -50,9 +52,11 @@ and improved system observability, leading to a 60% reduction in incident respon
 • Overview: Engineered a robust Infrastructure as Code (IaC) framework to automate the lifecycle of AWS EKS
 clusters. This involved architecting the networking layer, including VPCs, subnets, and security groups, to support
 scalable worker nodes.
+
 • Key Achievements: Successfully established multi-environment consistency (Dev/Staging/Prod) to minimize
 environment drift. Standardized infrastructure deployments using Terraform modules, ensuring high-availability
 and security compliance.
+
 • Outcome: Achieved a 40% reduction in infrastructure setup time and eliminated manual configuration
 errors, resulting in a 15% reduction in monthly cloud compute costs
 `Kubernetes` `AWS` `YAML` `Docker`, `EKS`
