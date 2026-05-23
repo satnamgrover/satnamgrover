@@ -70,7 +70,7 @@ errors, resulting in a 15% reduction in monthly cloud compute costs
 - KodeKloud Engineer — Docker (Level 1)
 - KodeKloud Engineer — Jenkins (Level 1)
 - KodeKloud Engineer — Linux (Level 1)
-- Python Programming — KodeKloud
+- Python Programming — Coddy
 
 ---
 
