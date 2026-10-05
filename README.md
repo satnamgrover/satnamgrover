@@ -104,7 +104,7 @@ Built a complete CI/CD pipeline that automates testing, Docker image creation, p
 ![Python](https://img.shields.io/badge/-Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/-Flask-0f172a?style=flat-square&logo=flask&logoColor=ffffff)
 
-[**View Repo →**](https://github.com/satnamgrover/flask-jenkins-cicd)
+[**View Repo →**](https://github.com/satnamgrover/flask-jenkins-cicd-pipeline)
 
 </td>
 <td width="50%" valign="top">
